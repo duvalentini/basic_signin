@@ -1,10 +1,12 @@
 {
    "0": {
       "email": "dan@abc.com",
-      "password": "abc123"
+      "password": "abc123",
+      "admin": true
    },
    "1": {
      "email": "bob@xyz.com",
-     "password": "xyz123"
+     "password": "xyz123",
+     "admin": false
    }
 }
